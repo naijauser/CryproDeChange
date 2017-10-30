@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">CryptoDeChange</string>
+    <string name="choose_crypto">Choose Cryptocurrency to convert.</string>
+    <string name="spinner_prompt1">Choose currency to compare</string>
+    <string name="error_message">Oops! Something went wrong. Select another currency to refresh.</string>
+    <string name="image_description">Double sided arrow</string>
+    <string name="remove_desc">Remove button</string>
+    <string name="zero">0</string>
+    <string name="key">Key</string>
+    <string name="btc">BTC</string>
+    <string name="bitcoin">Bitcoin BTC</string>
+    <string name="one">1</string>
+    <string name="btc_rates">BTC Rates</string>
+    <string name="eth_rates">ETH Rates</string>
+    <string name="eth_full">Ethereum ETH</string>
+    <string name="eth">ETH</string>
+    <string name="title_activity_rates_page">RatesPage</string>
+    <string name="naira">Nigerian Naira NGN</string>
+    <string name="yen">Japanese Yen JPY</string>
+    <string name="yuan">Chinese Yuan CNY</string>
+    <string name="rupees">Indian Rupees INR</string>
+    <string name="sing_dollar">Singapore Dollar SGD</string>
+    <string name="taiwan_dollar">Taiwan Dollar TWD</string>
+    <string name="us_dollar">US Dollar USD</string>
+    <string name="aust_dollar">Australian Dollar AUD</string>
+    <string name="euro">Euro EUR</string>
+    <string name="gb_pound">Great Britain Pound GBP</string>
+    <string name="ruble">Russian Ruble RUB</string>
+    <string name="rand">South Africa Rand ZAR</string>
+    <string name="mex_peso">Mexican Peso MXN</string>
+    <string name="isreali_shekel">Israeli New Shekel ILS</string>
+    <string name="ginggit">Malaysian Ginggit MYR</string>
+    <string name="new_z_dollar">New Zealand Dollar NZD</string>
+    <string name="krona">Swedish Krona SEK</string>
+    <string name="swiss_franc">Swiss Franc CHF</string>
+    <string name="norway_krone">Norwegian Krone NOK</string>
+    <string name="brazil_real">Brazilian Real BRL</string>
+    <string name="hong_kong_dollar">Hong Kong Dollar HKD</string>
+
+    <string-array name="currency_list">
+        <item>NGN</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>INR</item>
+        <item>SGD</item>
+        <item>TWD</item>
+        <item>USD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>RUB</item>
+        <item>ZAR</item>
+        <item>MXN</item>
+        <item>ILS</item>
+        <item>MYR</item>
+        <item>NZD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>NOK</item>
+        <item>BRL</item>
+        <item>HKD</item>
+    </string-array>
+    <string name="title_activity_key">Convert</string>
+
+</resources>
